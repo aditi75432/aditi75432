@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditi75432
-- 👀 I’m interested in coding, web development, android development, AI, Data science.
-- 🌱 I’m currently learning frontend and backend using java.
-- 💞️ I’m looking to collaborate on projects related to web development.
+- 👀 I’m interested in coding, web development, android development, AI-ML, Deep Learning and Computer Vision.
+- 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms with java.
+- 💞️ I’m looking to collaborate on projects related to web development and machine learning.
 
 <!---
 aditi75432/aditi75432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
