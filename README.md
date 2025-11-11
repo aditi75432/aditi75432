@@ -56,6 +56,10 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi75432&rank_icon=github&theme=dark)](https://github.com/aditi75432/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi75432&layout=compact&theme=vision-friendly-dark)](https://github.com/aditi75432/github-readme-stats)
+
+[![RISC-V Mentorship Program – Mentee](https://images.credly.com/size/300x300/images/6a885c4a-030b-431f-97f0-a9024cb3a691/RISCV_CredlyBadges_mentee_600px.png)](https://www.credly.com/badges/544ac0a7-7158-45c4-a62b-9e0a82a2c879/public_url)
+
+
 <!---
 ![](https://leetcard.jacoblin.cool/AditiMehta07?ext=contest)
 
