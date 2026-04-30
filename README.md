@@ -25,9 +25,6 @@
 </div> -->
 
 - 👋 Hi, I’m Aditi Mehta
-- 👀 I’m interested in coding, web development, android development, AI-ML, Deep Learning and Computer Vision.
-- 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms with java.
-- 💞️ I’m looking to collaborate on projects related to web development and machine learning.
 
 ---
 
